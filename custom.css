@@ -1,0 +1,63 @@
+header{
+    background-color: white;
+            color: black;
+}
+.logo{
+    color: #505F98;
+    font-size: 36px;
+    font-weight: 900;
+}
+ ul{
+    display: flex;
+ 
+}
+
+  ul li{
+    list-style: none;
+    margin-right: 20px;
+    color: white;
+   
+  }
+  ul li a {
+  
+    color:#505F98;
+    text-align: center;
+  
+    text-decoration: none;
+}
+
+  .login{
+    color: white;
+   width: 150px;
+   height: 42px;
+   border-radius:8px ;
+   background-color: #505F98;
+   border: none;
+
+  }
+  /* Hero section css */
+  .secondbutton{
+    width: 1280px;
+    height: 782px;
+  }
+  h2{
+    font-size: 36px;
+    font-weight: 900;
+    color: #505F98;
+    /* padding: 20px; */
+  }
+  h6{
+    font-size: medium;
+    font-weight: lighter;
+  }
+  .secondbutton{
+    height: 42px;
+    width: 150px;
+    border-radius:8px ;
+    color: #505F98;
+    border:1px solid black;
+    margin-left: 15px;
+  } 
+  
+ 
+  
