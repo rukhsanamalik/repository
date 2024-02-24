@@ -46,9 +46,10 @@ header{
     color: #505F98;
     /* padding: 20px; */
   }
-  h6{
+  p{
     font-size: medium;
     font-weight: lighter;
+    color: #505F98;
   }
   .secondbutton{
     height: 42px;
@@ -58,6 +59,31 @@ header{
     border:1px solid black;
     margin-left: 15px;
   } 
+
+  .icon img{
+    margin-right: 40px;
+  }
+  h3{
+    font-size: 16px;
+    font-weight: 900;
+    color: #505F98;
+    /* padding: 20px; */
+  }
+  .p{
+    font-size: 12px;
+    font-weight: lighter;
+    color: #505F98;
+  }
+  .login1{
+    color: white;
+   width: 150px;
+   height: 42px;
+   border-radius:8px ;
+   background-color: #505F98;
+   border: none;
+   margin: 5px auto;
+
+  }
   
  
   
